@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: gilroy-light;
+    src: url(../fonts/Gilroy-Light.woff2);
+}
+
+@font-face {
+    font-family: gilroy-bold;
+    src: url(../fonts/Gilroy-ExtraBold.woff2);
+}
+
+@theme {
+    --color-noteoo-100: #fdfaf8;
+    --color-noteoo-200: #f6e6dc;
+    --color-noteoo-300: #BB9AB1;
+    --color-noteoo-400: #987D9A;
+    --color-noteoo-500: #836885;
+}
